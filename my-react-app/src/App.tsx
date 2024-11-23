@@ -1,5 +1,5 @@
 
-import React,{useState} from 'react'
+import {useState} from 'react'
 import Button from './components/Button';
 import Alert from './components/Alert';
 const App = () => {
